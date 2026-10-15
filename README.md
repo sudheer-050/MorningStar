@@ -1,5 +1,7 @@
 # MorningStar
 
+![MorningStar NLP classification pipeline](docs/images/morningstar-nlp.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-scikit--learn-3776AB?logo=python&logoColor=white)
 
